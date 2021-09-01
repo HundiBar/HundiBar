@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dean</h1>
 <h3 align="center">A full stack web dev from UK, working in Japan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hundibar&label=Profile%20views&color=0e75b6&style=flat" alt="hundibar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hundibar&label=Profile%20views&color=0e75b6&style=flat" alt="hundibar" /> </p>
 
 - 🔭 I’m currently working on [Midorin](http://midorin.one)
 
