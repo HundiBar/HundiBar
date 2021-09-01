@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **real world solutions to automate everyday pain**
 
-- 👨‍💻 All of my projects are available at [...coming soon!](...coming soon!)
-
 - 💬 Ask me about **Ruby, Rails, cooooooking!**
 
 - ⚡ Fun fact **I sing a mean Umi no koe!**
@@ -26,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hundibar&show_icons=true&locale=en" alt="hundibar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hundibar&" alt="hundibar" /></p>
-
