@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dean</h1>
 <h3 align="center">A full stack web dev from UK, working in Japan</h3>
+![image title](https://rushter.com/counter.svg)
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 
 - 🔭 I’m currently working on [Midorin](http://midorin.one)
 
