@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Ruby, Rails, cooooooking!**
 
-- ⚡ Fun fact **I sing a mean Umi no koe!**
+- ⚡ Fun fact **I love to experiment with sous vide cooking methods!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
