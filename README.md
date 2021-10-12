@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dean</h1>
-<h3 align="center">A full stack web dev from UK, working in Japan</h3>
+<h3 align="center">A full stack web dev from The UK, working in Japan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hundibar&label=Profile%20views&color=0e75b6&style=flat" alt="hundibar" /> </p>
 
