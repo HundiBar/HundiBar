@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hundibar&label=Profile%20views&color=0e75b6&style=flat" alt="hundibar" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](http://deanabbott.me)
+- 🔭 I’m currently working on TDD Rails project!
 
-- 🌱 I’m currently learning **RSpec, React**
+- 🌱 I’m currently learning **RSpec**
 
 - 👯 I’m looking to collaborate on **real world solutions to automate everyday pain**
 
