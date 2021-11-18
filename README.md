@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a [**Gaijin Eats(TDD Rails&&React project)!**](https://github.com/HundiBar/gaijin-eats)
 
-- 🌱 I’m currently learning **RSpec**
+- 🌱 I’m currently learning **RSpec&&React**
 
 - 👯 I’m looking to collaborate on **real world solutions to automate everyday pain**
 
